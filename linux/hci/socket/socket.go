@@ -146,7 +146,12 @@ func (s *Socket) Write(p []byte) (int, error) {
 }
 
 func (s *Socket) Close() error {
-	close(s.closed)
+	select {
+	case <-s.closed:
+		return nil
+	default:
+	}
+        close(s.closed)
 	s.Write([]byte{0x01, 0x09, 0x10, 0x00}) // no-op command to wake up the Read call if it's blocked
 	s.rmu.Lock()
 	defer s.rmu.Unlock()

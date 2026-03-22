@@ -7,7 +7,7 @@ package darwin
 
 import (
 	"github.com/JuulLabs-OSS/cbgo"
-	"github.com/huguesb/ble"
+	"golang.betakappaphi.com/ble"
 )
 
 func (d *Device) CentralManagerDidUpdateState(cmgr cbgo.CentralManager) {

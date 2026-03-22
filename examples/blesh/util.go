@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/huguesb/ble"
+	"golang.betakappaphi.com/ble"
 	"github.com/pkg/errors"
 	"github.com/urfave/cli"
 )

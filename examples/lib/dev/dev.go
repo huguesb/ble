@@ -1,7 +1,7 @@
 package dev
 
 import (
-	"github.com/huguesb/ble"
+	"golang.betakappaphi.com/ble"
 )
 
 // NewDevice ...

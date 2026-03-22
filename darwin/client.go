@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/JuulLabs-OSS/cbgo"
-	"github.com/huguesb/ble"
+	"golang.betakappaphi.com/ble"
 )
 
 // A Client is a GATT client.

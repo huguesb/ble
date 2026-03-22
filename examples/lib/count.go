@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/huguesb/ble"
+	"golang.betakappaphi.com/ble"
 )
 
 // NewCountChar ...

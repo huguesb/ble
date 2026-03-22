@@ -5,10 +5,10 @@ import (
 	"io"
 	"log"
 
-	"github.com/huguesb/ble"
-	"github.com/huguesb/ble/linux/att"
-	"github.com/huguesb/ble/linux/gatt"
-	"github.com/huguesb/ble/linux/hci"
+	"golang.betakappaphi.com/ble"
+	"golang.betakappaphi.com/ble/linux/att"
+	"golang.betakappaphi.com/ble/linux/gatt"
+	"golang.betakappaphi.com/ble/linux/hci"
 	"github.com/pkg/errors"
 )
 

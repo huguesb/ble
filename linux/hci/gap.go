@@ -7,9 +7,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/huguesb/ble"
-	"github.com/huguesb/ble/linux/adv"
-	"github.com/huguesb/ble/linux/gatt"
+	"golang.betakappaphi.com/ble"
+	"golang.betakappaphi.com/ble/linux/adv"
+	"golang.betakappaphi.com/ble/linux/gatt"
 	"github.com/pkg/errors"
 )
 

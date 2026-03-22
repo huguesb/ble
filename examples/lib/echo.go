@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/huguesb/ble"
+	"golang.betakappaphi.com/ble"
 )
 
 // NewEchoChar ...

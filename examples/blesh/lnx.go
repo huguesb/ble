@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/huguesb/ble"
-	"github.com/huguesb/ble/linux"
-	"github.com/huguesb/ble/linux/hci/cmd"
+	"golang.betakappaphi.com/ble"
+	"golang.betakappaphi.com/ble/linux"
+	"golang.betakappaphi.com/ble/linux/hci/cmd"
 	"github.com/pkg/errors"
 )
 

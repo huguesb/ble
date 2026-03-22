@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/huguesb/ble/linux/hci/cmd"
+	"golang.betakappaphi.com/ble/linux/hci/cmd"
 )
 
 // Signal ...

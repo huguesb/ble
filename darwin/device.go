@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/JuulLabs-OSS/cbgo"
-	"github.com/huguesb/ble"
+	"golang.betakappaphi.com/ble"
 
 	"sync"
 )

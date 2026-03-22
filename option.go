@@ -1,10 +1,10 @@
 package ble
 
 import (
-	"github.com/huguesb/ble/linux/hci/evt"
+	"golang.betakappaphi.com/ble/linux/hci/evt"
 	"time"
 
-	"github.com/huguesb/ble/linux/hci/cmd"
+	"golang.betakappaphi.com/ble/linux/hci/cmd"
 )
 
 // DeviceOption is an interface which the device should implement to allow using configuration options

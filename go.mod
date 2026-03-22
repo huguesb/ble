@@ -1,4 +1,4 @@
-module github.com/huguesb/ble
+module golang.betakappaphi.com/ble
 
 go 1.13
 

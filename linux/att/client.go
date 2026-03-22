@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/huguesb/ble"
+	"golang.betakappaphi.com/ble"
 	"github.com/pkg/errors"
 )
 

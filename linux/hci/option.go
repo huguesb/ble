@@ -2,10 +2,10 @@ package hci
 
 import (
 	"errors"
-	"github.com/huguesb/ble/linux/hci/evt"
+	"golang.betakappaphi.com/ble/linux/hci/evt"
 	"time"
 
-	"github.com/huguesb/ble/linux/hci/cmd"
+	"golang.betakappaphi.com/ble/linux/hci/cmd"
 )
 
 // SetDeviceID sets HCI device ID.

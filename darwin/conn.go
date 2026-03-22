@@ -7,7 +7,7 @@ import (
 	"sync"
 
 	"github.com/JuulLabs-OSS/cbgo"
-	"github.com/huguesb/ble"
+	"golang.betakappaphi.com/ble"
 )
 
 // newGenConn creates a new generic (role-less) connection.  This should not be

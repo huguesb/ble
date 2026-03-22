@@ -1,6 +1,6 @@
 package lib
 
-import "github.com/huguesb/ble"
+import "golang.betakappaphi.com/ble"
 
 // NewBatteryService ...
 func NewBatteryService() *ble.Service {

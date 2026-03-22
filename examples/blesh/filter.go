@@ -3,7 +3,7 @@ package main
 import (
 	"strings"
 
-	"github.com/huguesb/ble"
+	"golang.betakappaphi.com/ble"
 	"github.com/urfave/cli"
 )
 

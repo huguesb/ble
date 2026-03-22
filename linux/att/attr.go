@@ -1,6 +1,6 @@
 package att
 
-import "github.com/huguesb/ble"
+import "golang.betakappaphi.com/ble"
 
 // attr is a BLE attribute.
 type attr struct {

@@ -1,7 +1,7 @@
 package darwin
 
 import (
-	"github.com/huguesb/ble"
+	"golang.betakappaphi.com/ble"
 	"github.com/JuulLabs-OSS/cbgo"
 )
 

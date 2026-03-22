@@ -4,8 +4,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/huguesb/ble/linux/hci/cmd"
-	"github.com/huguesb/ble/linux/hci/evt"
+	"golang.betakappaphi.com/ble/linux/hci/cmd"
+	"golang.betakappaphi.com/ble/linux/hci/evt"
 )
 
 // SetConnectedHandler sets handler to be called when new connection is established.

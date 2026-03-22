@@ -1,8 +1,8 @@
 package dev
 
 import (
-	"github.com/huguesb/ble"
-	"github.com/huguesb/ble/linux"
+	"golang.betakappaphi.com/ble"
+	"golang.betakappaphi.com/ble/linux"
 )
 
 // DefaultDevice ...

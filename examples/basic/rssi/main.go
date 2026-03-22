@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/huguesb/ble"
-	"github.com/huguesb/ble/examples/lib/dev"
+	"golang.betakappaphi.com/ble"
+	"golang.betakappaphi.com/ble/examples/lib/dev"
 )
 
 func main() {
